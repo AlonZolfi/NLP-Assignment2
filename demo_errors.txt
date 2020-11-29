@@ -1,0 +1,20 @@
+abcfde	abcde
+afbcde	abcde
+abcdfe	abcde
+abcdef	abcde
+fabcde	abcde
+
+acde	abcde
+abce	abcde
+bcde	abcde
+abcd	abcde
+
+agcde	abcde
+abcxe	abcde
+xbcde	abcde
+abcdx	abcde
+
+bacde	abcde
+acbde	abcde
+abdce	abcde
+abced	abcde
